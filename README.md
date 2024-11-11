@@ -40,8 +40,8 @@ Simulator that helped me with wiring - https://www.makerguides.com/using-the-mq2
 Libraries Used
 
 1. Arduino Core Library  
-   - Installation**: This library comes pre-installed with the Arduino IDE. No additional installation is required.
-   - Documentation**: [Arduino Reference](https://www.arduino.cc/reference/en/)
+   - Installation: This library comes pre-installed with the Arduino IDE. No additional installation is required.
+   - Documentation: [Arduino Reference](https://www.arduino.cc/reference/en/)
 
 2. MQ2 Gas Sensor Library
    - Installation:
@@ -55,7 +55,7 @@ ESP8266 WiFi Module
    - Installation:
      - Go to File > Preferences in the Arduino IDE.
      - In Additional Boards Manager URLs, add `http://arduino.esp8266.com/stable/package_esp8266com_index.json`.
-     - Go to Tools > Board > Boards Manager..., search for "ESP8266," and install the **ESP8266 by ESP8266 Community package.
+     - Go to Tools > Board > Boards Manager..., search for "ESP8266," and install the ESP8266 by ESP8266 Community package.
    - Documentation: [ESP8266 Arduino Core Documentation](https://arduino-esp8266.readthedocs.io/en/latest/)
 
 Future Enhancements
