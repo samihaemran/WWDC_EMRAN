@@ -14,13 +14,13 @@ Screenshots:
 <img width="554" alt="Screen Shot 2024-11-11 at 8 42 00 pm" src="https://github.com/user-attachments/assets/dee2a319-a87f-49a9-a16c-96b629d91917">
 
 Components Used
-Arduino Uno R4 WiFi: Acts as the primary microcontroller, processing data from the smoke sensor and controlling the outputs (LEDs and buzzer).
-MQ2 Smoke Sensor: Detects smoke and various gases in the air, providing an analog signal to represent the smoke density.
-LEDs (Green, Blue, Red): Visual indicators representing different smoke levels:
-Passive Buzzer: Sounds an alarm at high smoke levels, providing an audible alert for immediate awareness.
-220-ohm Resistors: Used with LEDs to limit current, protecting them from excess voltage and preventing burnout.
-Breadboard and Jumper Wires: Essential for connecting components without soldering, ensuring easy adjustments.
-Power Supply: Provided via a USB-C cable to power the Arduino Uno R4, allowing for portability and convenient connection to a computer or power bank.
+- Arduino Uno R4 WiFi: Acts as the primary microcontroller, processing data from the smoke sensor and controlling the outputs (LEDs and buzzer).
+- MQ2 Smoke Sensor: Detects smoke and various gases in the air, providing an analog signal to represent the smoke density.
+- LEDs (Green, Blue, Red): Visual indicators representing different smoke levels:
+- Passive Buzzer: Sounds an alarm at high smoke levels, providing an audible alert for immediate awareness.
+- 220-ohm Resistors: Used with LEDs to limit current, protecting them from excess voltage and preventing burnout.
+- Breadboard and Jumper Wires: Essential for connecting components without soldering, ensuring easy adjustments.
+- Power Supply: Provided via a USB-C cable to power the Arduino Uno R4, allowing for portability and convenient connection to a computer or power bank.
 
 Libraries Used
 
