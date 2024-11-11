@@ -35,7 +35,7 @@ The Tinkercad stimulator example - https://docs.sunfounder.com/projects/umsk/en/
 Also, the source that I used to go with the 9600 baud rate
 
 Simulator that helped me with wiring - https://www.makerguides.com/using-the-mq2-gas-sensor-with-oled-display-and-arduino/
-<img width="652" alt="Screen Shot 2024-11-11 at 11 11 07 pm" src="https://github.com/user-attachments/assets/88572d66-9300-41cf-9adb-c379f7ae36cd">
+<img width="652" alt="Screen Shot 2024-11-11 at 11 11 07 pm" src="https://github.com/user-attachments/assets/88572d66-9300-41cf-9adb-c379f7ae36cd"> - image from above site
 
 Libraries Used
 
