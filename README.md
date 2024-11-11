@@ -24,11 +24,11 @@ Components Used
 
 Libraries Used
 
-1. Arduino Core Library**  
+1. Arduino Core Library  
    - Installation**: This library comes pre-installed with the Arduino IDE. No additional installation is required.
    - Documentation**: [Arduino Reference](https://www.arduino.cc/reference/en/)
 
-2. MQ2 Gas Sensor Library**  
+2. MQ2 Gas Sensor Library
    - Installation:
      - Open the Arduino IDE.
      - Go to Sketch > Include Library > Manage Libraries....
